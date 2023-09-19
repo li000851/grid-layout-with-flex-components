@@ -22,8 +22,11 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    
+    margin-top: auto;
   }
   
+
   .icon {
     font-size: 4rem;
   }
