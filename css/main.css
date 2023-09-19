@@ -22,7 +22,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    
+
     margin-top: auto;
   }
   
@@ -43,7 +43,6 @@ body {
   
   .emoji{
     display: flex;
-    /* align-items: center; */
     flex-direction: column;
   }
 
